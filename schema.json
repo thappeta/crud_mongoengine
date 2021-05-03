@@ -1,0 +1,25 @@
+{
+        "tittle" : "Python",
+        "isbn" : "0981",
+        "downloadable" : "yes",
+        "no_of_reviews" : 3,
+        "tags" : [
+                "flask",
+                "django",
+                "sql"
+        ],
+        "languages" : [
+                "python",
+                "java",
+                "c++"
+        ],
+        "author_details" : {
+                "name" : "Surya Prathap Reddy Thappeta",
+                "call_name" : "Prathap",
+                "profile" : {
+                        "experience" : 1,
+                        "courses" : 2,
+                        "books" : 3
+                }
+        }
+}
